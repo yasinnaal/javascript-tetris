@@ -1,7 +1,8 @@
 Javascript Tetris
 =================
+###### An HTML5 Tetris Game
 
-An HTML5 Tetris Game
+![](https://github.com/yasinnaal/javascript-tetris/blob/master/tetris-game-draw.jpg)
 
  * [play the game](http://codeincomplete.com/projects/tetris/)
  * read a [blog article](http://codeincomplete.com/posts/2011/10/10/javascript_tetris/)
